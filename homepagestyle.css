@@ -1,0 +1,17 @@
+#wrap{
+background:url('홈페이지배경.jpg');
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover; margin:0;
+width:100vw;
+height:100vh;
+margin:0;
+padding:0;
+}
+#header{width:100vw; height:18vh;}
+
+#m_logo{width:18vw; height:18vh; float:left; text-align:left;}
+#top_menu{width:82vw; height:18vh; float:right; text-align:right;}
+
+
+#main{width:100vw; height:82vh;}

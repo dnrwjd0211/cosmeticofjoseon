@@ -1,0 +1,14 @@
+#body{
+background-image:url('경향_배경.jpg');
+background-repeat:no-repeat;
+background-position: center center;
+background-size:cover;
+width:100vw;
+height:100vh;
+min-height:3500px;
+
+}
+
+#header{width:100vw; height:40vh;}
+#m_logo{width:18vw; height:40vh; float:left; text-align:left;}
+#top_menu{width:82vw; height:40vh; float:right; text-align:right;}
